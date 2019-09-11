@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techdegree-project-11-deploy/static/css/main.497edbfa.chunk.css",
+    "main.js": "/techdegree-project-11-deploy/static/js/main.75770558.chunk.js",
+    "main.js.map": "/techdegree-project-11-deploy/static/js/main.75770558.chunk.js.map",
+    "runtime~main.js": "/techdegree-project-11-deploy/static/js/runtime~main.06859964.js",
+    "runtime~main.js.map": "/techdegree-project-11-deploy/static/js/runtime~main.06859964.js.map",
+    "static/js/2.6ed63092.chunk.js": "/techdegree-project-11-deploy/static/js/2.6ed63092.chunk.js",
+    "static/js/2.6ed63092.chunk.js.map": "/techdegree-project-11-deploy/static/js/2.6ed63092.chunk.js.map",
+    "index.html": "/techdegree-project-11-deploy/index.html",
+    "precache-manifest.427af524513fdbcf510e941cbdc5a54d.js": "/techdegree-project-11-deploy/precache-manifest.427af524513fdbcf510e941cbdc5a54d.js",
+    "service-worker.js": "/techdegree-project-11-deploy/service-worker.js",
+    "static/css/main.497edbfa.chunk.css.map": "/techdegree-project-11-deploy/static/css/main.497edbfa.chunk.css.map"
+  }
+}
